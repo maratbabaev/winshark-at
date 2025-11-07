@@ -623,7 +623,6 @@ aside a ul li:first-child:before {
   width: 100%;
   border-left: 2px solid rgb(255, 201, 63);
   border-radius: 0.5rem;
-  margin-left: 10px;
 }
 aside a ul li:nth-child(11) {
   border: 1px solid rgb(18, 21, 30);
